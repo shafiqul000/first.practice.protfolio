@@ -35,3 +35,14 @@ section{
     background-image: url(developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
 }
+.umm{
+
+    color: #660066;
+}
+.Dream-big{
+
+    background-image: url(developer-portfolio-master/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+   }
