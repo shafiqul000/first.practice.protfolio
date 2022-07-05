@@ -8,7 +8,7 @@ h1{
 .introducotry-color{
     color: #2ECC71;
 }
-section{
+.flexible-container{
 
     display: flex;
 }
@@ -45,4 +45,29 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
-   }
+}
+.experience-item{
+
+    width: 40%;
+    margin: 30px 50px 30px 50px;
+    padding-left: 50px;
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px 3px #BFC9CA;
+    
+}
+.experience-area{
+
+    background-image: url(developer-portfolio-master/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#side-color1{
+
+    border-left: 5px solid #990099 ;;
+}
+#side-color2{
+    border-left: 5px solid #009933;
+}
+footer{
+    text-align: center;
+}
